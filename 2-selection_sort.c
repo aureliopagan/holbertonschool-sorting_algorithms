@@ -7,7 +7,7 @@
  * @size: The size of the array.
  *
  * Description: This function repeatedly selects the smallest element from
- * the unsorted portion of the array and swaps it with the first unsorted element.
+ * unsorted portion of the array and swaps it with the first unsorted element.
  */
 void selection_sort(int *array, size_t size)
 {
